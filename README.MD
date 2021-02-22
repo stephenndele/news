@@ -3,13 +3,13 @@
 
 
 ### Author
- **[Stephen Ndele](https://github.com/Isaacg94)**
+ **[Stephen Ndele](https://github.com/stephenndele)**
 
 ## Description
 
 A web application made using Python's Flask that uses the News API to allow a user to keep up with the World News by providing them with daily highlights straight from their preferred sources.
 
-**[Live-Link to site.]()**
+**[Live-Link to site.](https://hapakule-latest-news.herokuapp.com/)**
 ## Features
 * A landing page with a list of some of the most popular news publishers that exists in the world right now.
 * A display of articles from a selected news publisher.
