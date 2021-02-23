@@ -25,9 +25,19 @@ A web application made using Python's Flask that uses the News API to allow a us
 Here is a run through of how to set up the application:
 * Step 1 : Clone this repository using the git clone link:
   * **`git clone  https://github.com/stephenndele/news.git`**
-* Step 2 : Navigate to the directory:
+* Step 2 : Open the directory created with your favorite IDE. If Atom type **`atom .`** if VSCode type **`code .`** . This will lauch the editor with the project setup,
+* Step 3 : Navigate to the directory:
   * **`cd news`**
-* Step 3 : Open the directory created with your favorite IDE. If Atom type **`atom .`** if VSCode type **`code .`** . This will lauch the editor with the project setup,
+Then install all the requirements through pip: `$ pip install -r requirements.txt`
+
+Make the file executable: `$ chmod +x start.sh`
+
+Run the application: `$ ./start.sh`
+
+Now navigate to your browser at: localhost:5000
+
+
+
 * Now feel free to hack around the project.
 
 ## Known Bugs
